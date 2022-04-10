@@ -78,6 +78,8 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
+#luci-app-oscam
+git clone https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
 
 ##############################################################################################
 
@@ -85,7 +87,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 
 #文件助手
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
-
+svn co https://github.com/kiddin9/openwrt-packages/trunk/oscam package/oscam
 ##############################################################################################
 
 # 网络
