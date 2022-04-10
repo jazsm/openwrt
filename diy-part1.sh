@@ -79,8 +79,8 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 #luci-app-oscam
-git clone https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
-git clone https://github.com/kiddin9/openwrt-packages/trunk/oscam package/oscam
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-oscam package/luci-app-oscam
+svn co https://github.com/kiddin9/openwrt-packages/trunk/oscam package/oscam
 ##############################################################################################
 
 # NAS
